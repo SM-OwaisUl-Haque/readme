@@ -57,10 +57,9 @@ Hi! I’m **SM Owais Ul Haq**, a creative technologist with a passion for buildi
 
 ## 🌐 Connect With Me
 
-- 📧 Email: [smowaisulhaq@example.com](mailto:smowaisulhaq@example.com)  
-- 🌍 Portfolio: [www.smowaisulhaq.com](https://www.smowaisulhaq.com) *(or GitHub Pages link)*  
-- 💼 LinkedIn: [linkedin.com/in/smowaisulhaq](https://linkedin.com/in/smowaisulhaq)  
-- 🎨 ArtStation: [artstation.com/smowaisulhaq](https://artstation.com/smowaisulhaq)  
+- 📧 Email: [smowaisulhaq@example.com](owaisulhaq.work@gmail.com)  
+- 🌍 Website: [www.smowaisulhaq.com](https://smowaisofficial.netlify.app/) *(or GitHub Pages link)*  
+- 💼 LinkedIn: [linkedin.com/in/smowaisulhaq](https://www.linkedin.com/in/owais-ulhaq/)   
 
 ---
 
